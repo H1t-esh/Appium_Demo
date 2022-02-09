@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+      <class name="hitzProj.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:hitzProj.MavenJava.SeleniumTest@14d3bc22]" name="BrowserAutomation" duration-ms="0" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:hitzProj.MavenJava.SeleniumTest@14d3bc22]" name="ElementsUI" duration-ms="0" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- hitzProj.MavenJava.SeleniumTest -->
+      <class name="hitzProj.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:hitzProj.MavenJava.RestAPITest@38c5cc4c]" name="deleteTwitter" duration-ms="3" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:hitzProj.MavenJava.RestAPITest@38c5cc4c]" name="postJira" duration-ms="0" started-at="2022-01-13T11:46:22 IST" finished-at="2022-01-13T11:46:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- hitzProj.MavenJava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
